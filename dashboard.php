@@ -31,24 +31,24 @@ License: You must have a valid license purchased only from themeforest(the above
         <!-- END LAYOUT FIRST STYLES -->
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
         <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css" />
         <!-- END GLOBAL MANDATORY STYLES -->
         <!-- BEGIN PAGE LEVEL PLUGINS -->
-        <link href="../assets/global/plugins/bootstrap-daterangepicker/daterangepicker.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/morris/morris.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/fullcalendar/fullcalendar.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/jqvmap/jqvmap/jqvmap.css" rel="stylesheet" type="text/css" />
+        <link href="assets/global/plugins/bootstrap-daterangepicker/daterangepicker.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/global/plugins/morris/morris.css" rel="stylesheet" type="text/css" />
+        <link href="assets/global/plugins/fullcalendar/fullcalendar.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/global/plugins/jqvmap/jqvmap/jqvmap.css" rel="stylesheet" type="text/css" />
         <!-- END PAGE LEVEL PLUGINS -->
         <!-- BEGIN THEME GLOBAL STYLES -->
-        <link href="../assets/global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css" />
-        <link href="../assets/global/css/plugins.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css" />
+        <link href="assets/global/css/plugins.min.css" rel="stylesheet" type="text/css" />
         <!-- END THEME GLOBAL STYLES -->
         <!-- BEGIN THEME LAYOUT STYLES -->
-        <link href="../assets/layouts/layout5/css/layout.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/layouts/layout5/css/custom.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/layouts/layout5/css/layout.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/layouts/layout5/css/custom.min.css" rel="stylesheet" type="text/css" />
         <!-- END THEME LAYOUT STYLES -->
         <link rel="shortcut icon" href="favicon.ico" /> </head>
     <!-- END HEAD -->
@@ -73,7 +73,7 @@ License: You must have a valid license purchased only from themeforest(the above
                             <!-- End Toggle Button -->
                             <!-- BEGIN LOGO -->
                             <a id="index" class="page-logo" href="index.html">
-                                <img src="../assets/layouts/layout5/img/logo.png" alt="Logo"> </a>
+                                <img src="assets/layouts/layout5/img/logo.png" alt="Logo"> </a>
                             <!-- END LOGO -->
                             <!-- BEGIN SEARCH -->
                             <form class="search" action="extra_search.html" method="GET">
@@ -218,7 +218,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                 <div class="btn-group-img btn-group">
                                     <button type="button" class="btn btn-sm md-skip dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                                         <span>Hi, Marcus</span>
-                                        <img src="../assets/layouts/layout5/img/avatar1.jpg" alt=""> </button>
+                                        <img src="assets/layouts/layout5/img/avatar1.jpg" alt=""> </button>
                                     <ul class="dropdown-menu-v2" role="menu">
                                         <li>
                                             <a href="page_user_profile_1.html">
@@ -940,7 +940,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                 </div>
                                 <div class="portlet-body">
                                     <div id="site_statistics_loading">
-                                        <img src="../assets/global/img/loading.gif" alt="loading" /> </div>
+                                        <img src="assets/global/img/loading.gif" alt="loading" /> </div>
                                     <div id="site_statistics_content" class="display-none">
                                         <div id="site_statistics" class="chart"> </div>
                                     </div>
@@ -989,7 +989,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                 </div>
                                 <div class="portlet-body">
                                     <div id="site_activities_loading">
-                                        <img src="../assets/global/img/loading.gif" alt="loading" /> </div>
+                                        <img src="assets/global/img/loading.gif" alt="loading" /> </div>
                                     <div id="site_activities_content" class="display-none">
                                         <div id="site_activities" style="height: 228px;"> </div>
                                     </div>
@@ -1042,7 +1042,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="mt-comments">
                                                 <div class="mt-comment">
                                                     <div class="mt-comment-img">
-                                                        <img src="../assets/pages/media/users/avatar1.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar1.jpg" /> </div>
                                                     <div class="mt-comment-body">
                                                         <div class="mt-comment-info">
                                                             <span class="mt-comment-author">Michael Baker</span>
@@ -1067,7 +1067,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-comment">
                                                     <div class="mt-comment-img">
-                                                        <img src="../assets/pages/media/users/avatar6.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar6.jpg" /> </div>
                                                     <div class="mt-comment-body">
                                                         <div class="mt-comment-info">
                                                             <span class="mt-comment-author">Larisa Maskalyova</span>
@@ -1092,7 +1092,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-comment">
                                                     <div class="mt-comment-img">
-                                                        <img src="../assets/pages/media/users/avatar8.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar8.jpg" /> </div>
                                                     <div class="mt-comment-body">
                                                         <div class="mt-comment-info">
                                                             <span class="mt-comment-author">Natasha Kim</span>
@@ -1117,7 +1117,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-comment">
                                                     <div class="mt-comment-img">
-                                                        <img src="../assets/pages/media/users/avatar4.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar4.jpg" /> </div>
                                                     <div class="mt-comment-body">
                                                         <div class="mt-comment-info">
                                                             <span class="mt-comment-author">Sebastian Davidson</span>
@@ -1148,7 +1148,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="mt-comments">
                                                 <div class="mt-comment">
                                                     <div class="mt-comment-img">
-                                                        <img src="../assets/pages/media/users/avatar4.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar4.jpg" /> </div>
                                                     <div class="mt-comment-body">
                                                         <div class="mt-comment-info">
                                                             <span class="mt-comment-author">Michael Baker</span>
@@ -1173,7 +1173,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-comment">
                                                     <div class="mt-comment-img">
-                                                        <img src="../assets/pages/media/users/avatar8.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar8.jpg" /> </div>
                                                     <div class="mt-comment-body">
                                                         <div class="mt-comment-info">
                                                             <span class="mt-comment-author">Larisa Maskalyova</span>
@@ -1198,7 +1198,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-comment">
                                                     <div class="mt-comment-img">
-                                                        <img src="../assets/pages/media/users/avatar6.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar6.jpg" /> </div>
                                                     <div class="mt-comment-body">
                                                         <div class="mt-comment-info">
                                                             <span class="mt-comment-author">Natasha Kim</span>
@@ -1223,7 +1223,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-comment">
                                                     <div class="mt-comment-img">
-                                                        <img src="../assets/pages/media/users/avatar1.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar1.jpg" /> </div>
                                                     <div class="mt-comment-body">
                                                         <div class="mt-comment-info">
                                                             <span class="mt-comment-author">Sebastian Davidson</span>
@@ -1276,7 +1276,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="mt-actions">
                                                 <div class="mt-action">
                                                     <div class="mt-action-img">
-                                                        <img src="../assets/pages/media/users/avatar10.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar10.jpg" /> </div>
                                                     <div class="mt-action-body">
                                                         <div class="mt-action-row">
                                                             <div class="mt-action-info ">
@@ -1304,7 +1304,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-action">
                                                     <div class="mt-action-img">
-                                                        <img src="../assets/pages/media/users/avatar3.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar3.jpg" /> </div>
                                                     <div class="mt-action-body">
                                                         <div class="mt-action-row">
                                                             <div class="mt-action-info ">
@@ -1332,7 +1332,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-action">
                                                     <div class="mt-action-img">
-                                                        <img src="../assets/pages/media/users/avatar2.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar2.jpg" /> </div>
                                                     <div class="mt-action-body">
                                                         <div class="mt-action-row">
                                                             <div class="mt-action-info ">
@@ -1360,7 +1360,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-action">
                                                     <div class="mt-action-img">
-                                                        <img src="../assets/pages/media/users/avatar7.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar7.jpg" /> </div>
                                                     <div class="mt-action-body">
                                                         <div class="mt-action-row">
                                                             <div class="mt-action-info ">
@@ -1388,7 +1388,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-action">
                                                     <div class="mt-action-img">
-                                                        <img src="../assets/pages/media/users/avatar8.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar8.jpg" /> </div>
                                                     <div class="mt-action-body">
                                                         <div class="mt-action-row">
                                                             <div class="mt-action-info ">
@@ -1416,7 +1416,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-action">
                                                     <div class="mt-action-img">
-                                                        <img src="../assets/pages/media/users/avatar9.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar9.jpg" /> </div>
                                                     <div class="mt-action-body">
                                                         <div class="mt-action-row">
                                                             <div class="mt-action-info ">
@@ -1450,7 +1450,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="mt-actions">
                                                 <div class="mt-action">
                                                     <div class="mt-action-img">
-                                                        <img src="../assets/pages/media/users/avatar1.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar1.jpg" /> </div>
                                                     <div class="mt-action-body">
                                                         <div class="mt-action-row">
                                                             <div class="mt-action-info ">
@@ -1478,7 +1478,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-action">
                                                     <div class="mt-action-img">
-                                                        <img src="../assets/pages/media/users/avatar8.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar8.jpg" /> </div>
                                                     <div class="mt-action-body">
                                                         <div class="mt-action-row">
                                                             <div class="mt-action-info ">
@@ -1506,7 +1506,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-action">
                                                     <div class="mt-action-img">
-                                                        <img src="../assets/pages/media/users/avatar5.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar5.jpg" /> </div>
                                                     <div class="mt-action-body">
                                                         <div class="mt-action-row">
                                                             <div class="mt-action-info ">
@@ -1534,7 +1534,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                                 <div class="mt-action">
                                                     <div class="mt-action-img">
-                                                        <img src="../assets/pages/media/users/avatar2.jpg" /> </div>
+                                                        <img src="assets/pages/media/users/avatar2.jpg" /> </div>
                                                     <div class="mt-action-body">
                                                         <div class="mt-action-row">
                                                             <div class="mt-action-info ">
@@ -1668,7 +1668,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_3.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_3.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -1694,7 +1694,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_3.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_3.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Hugh Grant</a>
@@ -1736,7 +1736,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_1.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_1.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue">Rory Matthew</a>
@@ -1760,7 +1760,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_2.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_2.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -1782,7 +1782,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_1.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_1.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Matt Goldman</a>
@@ -1821,7 +1821,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_1.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_1.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Rory Matthew</a>
@@ -1830,7 +1830,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="clearfix"></div>
                                                     <div class="mt-content border-grey-steel">
-                                                        <img class="timeline-body-img pull-left" src="../assets/pages/media/blog/5.jpg" alt="">
+                                                        <img class="timeline-body-img pull-left" src="assets/pages/media/blog/5.jpg" alt="">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
                                                             qui ut. laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut. </p>
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
@@ -1846,7 +1846,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_5.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_5.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Jessica Wolf</a>
@@ -1855,7 +1855,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="clearfix"></div>
                                                     <div class="mt-content border-grey-steel">
-                                                        <img class="timeline-body-img pull-right" src="../assets/pages/media/blog/6.jpg" alt="">
+                                                        <img class="timeline-body-img pull-right" src="assets/pages/media/blog/6.jpg" alt="">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
                                                             qui ut.</p>
                                                         <a href="javascript:;" class="btn btn-circle green-sharp">Read More</a>
@@ -1867,7 +1867,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_2.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_2.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -1889,7 +1889,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_2.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_2.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -1911,7 +1911,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_2.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_2.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -1933,7 +1933,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_2.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_2.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -2041,7 +2041,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_2.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_2.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Lisa Bold</a>
@@ -2064,7 +2064,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_3.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_3.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Hugh Grant</a>
@@ -2106,7 +2106,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_1.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_1.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue">Rory Matthew</a>
@@ -2130,7 +2130,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_2.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_2.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -2152,7 +2152,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_1.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_1.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Matt Goldman</a>
@@ -2191,7 +2191,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_1.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_1.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Rory Matthew</a>
@@ -2200,7 +2200,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="clearfix"></div>
                                                     <div class="mt-content border-grey-steel">
-                                                        <img class="timeline-body-img pull-left" src="../assets/pages/media/blog/5.jpg" alt="">
+                                                        <img class="timeline-body-img pull-left" src="assets/pages/media/blog/5.jpg" alt="">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
                                                             qui ut. laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut. </p>
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
@@ -2216,7 +2216,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_5.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_5.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Jessica Wolf</a>
@@ -2225,7 +2225,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="clearfix"></div>
                                                     <div class="mt-content border-grey-steel">
-                                                        <img class="timeline-body-img pull-right" src="../assets/pages/media/blog/6.jpg" alt="">
+                                                        <img class="timeline-body-img pull-right" src="assets/pages/media/blog/6.jpg" alt="">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
                                                             qui ut.</p>
                                                         <a href="javascript:;" class="btn btn-circle green-sharp">Read More</a>
@@ -2237,7 +2237,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_2.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_2.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -2259,7 +2259,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_2.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_2.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -2281,7 +2281,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_2.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_2.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -2303,7 +2303,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </div>
                                                     <div class="mt-author">
                                                         <div class="mt-avatar">
-                                                            <img src="../assets/pages/media/users/avatar80_2.jpg" />
+                                                            <img src="assets/pages/media/users/avatar80_2.jpg" />
                                                         </div>
                                                         <div class="mt-author-name">
                                                             <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -3145,7 +3145,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                 </div>
                                 <div class="portlet-body">
                                     <div id="region_statistics_loading">
-                                        <img src="../assets/global/img/loading.gif" alt="loading" /> </div>
+                                        <img src="assets/global/img/loading.gif" alt="loading" /> </div>
                                     <div id="region_statistics_content" class="display-none">
                                         <div class="btn-toolbar margin-bottom-10">
                                             <div class="btn-group btn-group-circle" data-toggle="buttons">
@@ -3766,7 +3766,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <div class="scroller" style="height: 525px;" data-always-visible="1" data-rail-visible1="1">
                                         <ul class="chats">
                                             <li class="out">
-                                                <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg" />
+                                                <img class="avatar" alt="" src="assets/layouts/layout/img/avatar2.jpg" />
                                                 <div class="message">
                                                     <span class="arrow"> </span>
                                                     <a href="javascript:;" class="name"> Lisa Wong </a>
@@ -3775,7 +3775,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                             </li>
                                             <li class="out">
-                                                <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg" />
+                                                <img class="avatar" alt="" src="assets/layouts/layout/img/avatar2.jpg" />
                                                 <div class="message">
                                                     <span class="arrow"> </span>
                                                     <a href="javascript:;" class="name"> Lisa Wong </a>
@@ -3784,7 +3784,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                             </li>
                                             <li class="in">
-                                                <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg" />
+                                                <img class="avatar" alt="" src="assets/layouts/layout/img/avatar1.jpg" />
                                                 <div class="message">
                                                     <span class="arrow"> </span>
                                                     <a href="javascript:;" class="name"> Bob Nilson </a>
@@ -3793,7 +3793,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                             </li>
                                             <li class="in">
-                                                <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg" />
+                                                <img class="avatar" alt="" src="assets/layouts/layout/img/avatar1.jpg" />
                                                 <div class="message">
                                                     <span class="arrow"> </span>
                                                     <a href="javascript:;" class="name"> Bob Nilson </a>
@@ -3802,7 +3802,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                             </li>
                                             <li class="out">
-                                                <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg" />
+                                                <img class="avatar" alt="" src="assets/layouts/layout/img/avatar3.jpg" />
                                                 <div class="message">
                                                     <span class="arrow"> </span>
                                                     <a href="javascript:;" class="name"> Richard Doe </a>
@@ -3811,7 +3811,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                             </li>
                                             <li class="in">
-                                                <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg" />
+                                                <img class="avatar" alt="" src="assets/layouts/layout/img/avatar3.jpg" />
                                                 <div class="message">
                                                     <span class="arrow"> </span>
                                                     <a href="javascript:;" class="name"> Richard Doe </a>
@@ -3820,7 +3820,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                             </li>
                                             <li class="out">
-                                                <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg" />
+                                                <img class="avatar" alt="" src="assets/layouts/layout/img/avatar1.jpg" />
                                                 <div class="message">
                                                     <span class="arrow"> </span>
                                                     <a href="javascript:;" class="name"> Bob Nilson </a>
@@ -3829,7 +3829,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                             </li>
                                             <li class="in">
-                                                <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg" />
+                                                <img class="avatar" alt="" src="assets/layouts/layout/img/avatar3.jpg" />
                                                 <div class="message">
                                                     <span class="arrow"> </span>
                                                     <a href="javascript:;" class="name"> Richard Doe </a>
@@ -3838,7 +3838,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 </div>
                                             </li>
                                             <li class="out">
-                                                <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg" />
+                                                <img class="avatar" alt="" src="assets/layouts/layout/img/avatar1.jpg" />
                                                 <div class="message">
                                                     <span class="arrow"> </span>
                                                     <a href="javascript:;" class="name"> Bob Nilson </a>
@@ -3905,7 +3905,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </a>
                                                 </div>
                                                 <div class="mt-img">
-                                                    <img src="../assets/pages/media/users/avatar80_8.jpg"> </div>
+                                                    <img src="assets/pages/media/users/avatar80_8.jpg"> </div>
                                                 <div class="mt-body">
                                                     <h3 class="mt-username">Diana Ellison</h3>
                                                     <p class="mt-user-title"> Lorem Ipsum is simply dummy text. </p>
@@ -3932,7 +3932,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </a>
                                                 </div>
                                                 <div class="mt-img">
-                                                    <img src="../assets/pages/media/users/avatar80_7.jpg"> </div>
+                                                    <img src="assets/pages/media/users/avatar80_7.jpg"> </div>
                                                 <div class="mt-body">
                                                     <h3 class="mt-username">Jason Baker</h3>
                                                     <p class="mt-user-title"> Lorem Ipsum is simply dummy text. </p>
@@ -3959,7 +3959,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </a>
                                                 </div>
                                                 <div class="mt-img">
-                                                    <img src="../assets/pages/media/users/avatar80_6.jpg"> </div>
+                                                    <img src="assets/pages/media/users/avatar80_6.jpg"> </div>
                                                 <div class="mt-body">
                                                     <h3 class="mt-username">Julia Berry</h3>
                                                     <p class="mt-user-title"> Lorem Ipsum is simply dummy text. </p>
@@ -4000,13 +4000,13 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="mt-widget-2">
-                                                <div class="mt-head" style="background-image: url(../assets/pages/img/background/32.jpg);">
+                                                <div class="mt-head" style="background-image: url(assets/pages/img/background/32.jpg);">
                                                     <div class="mt-head-label">
                                                         <button type="button" class="btn btn-success">Manhattan</button>
                                                     </div>
                                                     <div class="mt-head-user">
                                                         <div class="mt-head-user-img">
-                                                            <img src="../assets/pages/img/avatars/team7.jpg"> </div>
+                                                            <img src="assets/pages/img/avatars/team7.jpg"> </div>
                                                         <div class="mt-head-user-info">
                                                             <span class="mt-user-name">Chris Jagers</span>
                                                             <span class="mt-user-time">
@@ -4038,13 +4038,13 @@ License: You must have a valid license purchased only from themeforest(the above
                                         </div>
                                         <div class="col-md-6">
                                             <div class="mt-widget-2">
-                                                <div class="mt-head" style="background-image: url(../assets/pages/img/background/43.jpg);">
+                                                <div class="mt-head" style="background-image: url(assets/pages/img/background/43.jpg);">
                                                     <div class="mt-head-label">
                                                         <button type="button" class="btn btn-danger">London</button>
                                                     </div>
                                                     <div class="mt-head-user">
                                                         <div class="mt-head-user-img">
-                                                            <img src="../assets/pages/img/avatars/team3.jpg"> </div>
+                                                            <img src="assets/pages/img/avatars/team3.jpg"> </div>
                                                         <div class="mt-head-user-info">
                                                             <span class="mt-user-name">Harry Harris</span>
                                                             <span class="mt-user-time">
@@ -4100,7 +4100,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         <div class="col-md-4">
                                             <div class="mt-widget-4">
                                                 <div class="mt-img-container">
-                                                    <img src="../assets/pages/img/background/34.jpg" /> </div>
+                                                    <img src="assets/pages/img/background/34.jpg" /> </div>
                                                 <div class="mt-container bg-purple-opacity">
                                                     <div class="mt-head-title"> Website Revamp & Deployment </div>
                                                     <div class="mt-body-icons">
@@ -4123,7 +4123,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         <div class="col-md-4">
                                             <div class="mt-widget-4">
                                                 <div class="mt-img-container">
-                                                    <img src="../assets/pages/img/background/46.jpg" /> </div>
+                                                    <img src="assets/pages/img/background/46.jpg" /> </div>
                                                 <div class="mt-container bg-green-opacity">
                                                     <div class="mt-head-title"> CRM Development & Deployment </div>
                                                     <div class="mt-body-icons">
@@ -4146,7 +4146,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         <div class="col-md-4">
                                             <div class="mt-widget-4">
                                                 <div class="mt-img-container">
-                                                    <img src="../assets/pages/img/background/37.jpg" /> </div>
+                                                    <img src="assets/pages/img/background/37.jpg" /> </div>
                                                 <div class="mt-container bg-dark-opacity">
                                                     <div class="mt-head-title"> Marketing Campaigns </div>
                                                     <div class="mt-body-icons">
@@ -4373,14 +4373,14 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <div class="media-status">
                                         <span class="badge badge-success">8</span>
                                     </div>
-                                    <img class="media-object" src="../assets/layouts/layout/img/avatar3.jpg" alt="...">
+                                    <img class="media-object" src="assets/layouts/layout/img/avatar3.jpg" alt="...">
                                     <div class="media-body">
                                         <h4 class="media-heading">Bob Nilson</h4>
                                         <div class="media-heading-sub"> Project Manager </div>
                                     </div>
                                 </li>
                                 <li class="media">
-                                    <img class="media-object" src="../assets/layouts/layout/img/avatar1.jpg" alt="...">
+                                    <img class="media-object" src="assets/layouts/layout/img/avatar1.jpg" alt="...">
                                     <div class="media-body">
                                         <h4 class="media-heading">Nick Larson</h4>
                                         <div class="media-heading-sub"> Art Director </div>
@@ -4390,14 +4390,14 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <div class="media-status">
                                         <span class="badge badge-danger">3</span>
                                     </div>
-                                    <img class="media-object" src="../assets/layouts/layout/img/avatar4.jpg" alt="...">
+                                    <img class="media-object" src="assets/layouts/layout/img/avatar4.jpg" alt="...">
                                     <div class="media-body">
                                         <h4 class="media-heading">Deon Hubert</h4>
                                         <div class="media-heading-sub"> CTO </div>
                                     </div>
                                 </li>
                                 <li class="media">
-                                    <img class="media-object" src="../assets/layouts/layout/img/avatar2.jpg" alt="...">
+                                    <img class="media-object" src="assets/layouts/layout/img/avatar2.jpg" alt="...">
                                     <div class="media-body">
                                         <h4 class="media-heading">Ella Wong</h4>
                                         <div class="media-heading-sub"> CEO </div>
@@ -4410,7 +4410,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <div class="media-status">
                                         <span class="badge badge-warning">2</span>
                                     </div>
-                                    <img class="media-object" src="../assets/layouts/layout/img/avatar6.jpg" alt="...">
+                                    <img class="media-object" src="assets/layouts/layout/img/avatar6.jpg" alt="...">
                                     <div class="media-body">
                                         <h4 class="media-heading">Lara Kunis</h4>
                                         <div class="media-heading-sub"> CEO, Loop Inc </div>
@@ -4421,7 +4421,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <div class="media-status">
                                         <span class="label label-sm label-success">new</span>
                                     </div>
-                                    <img class="media-object" src="../assets/layouts/layout/img/avatar7.jpg" alt="...">
+                                    <img class="media-object" src="assets/layouts/layout/img/avatar7.jpg" alt="...">
                                     <div class="media-body">
                                         <h4 class="media-heading">Ernie Kyllonen</h4>
                                         <div class="media-heading-sub"> Project Manager,
@@ -4429,7 +4429,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                     </div>
                                 </li>
                                 <li class="media">
-                                    <img class="media-object" src="../assets/layouts/layout/img/avatar8.jpg" alt="...">
+                                    <img class="media-object" src="assets/layouts/layout/img/avatar8.jpg" alt="...">
                                     <div class="media-body">
                                         <h4 class="media-heading">Lisa Stone</h4>
                                         <div class="media-heading-sub"> CTO, Keort Inc </div>
@@ -4440,14 +4440,14 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <div class="media-status">
                                         <span class="badge badge-success">7</span>
                                     </div>
-                                    <img class="media-object" src="../assets/layouts/layout/img/avatar9.jpg" alt="...">
+                                    <img class="media-object" src="assets/layouts/layout/img/avatar9.jpg" alt="...">
                                     <div class="media-body">
                                         <h4 class="media-heading">Deon Portalatin</h4>
                                         <div class="media-heading-sub"> CFO, H&D LTD </div>
                                     </div>
                                 </li>
                                 <li class="media">
-                                    <img class="media-object" src="../assets/layouts/layout/img/avatar10.jpg" alt="...">
+                                    <img class="media-object" src="assets/layouts/layout/img/avatar10.jpg" alt="...">
                                     <div class="media-body">
                                         <h4 class="media-heading">Irina Savikova</h4>
                                         <div class="media-heading-sub"> CEO, Tizda Motors Inc </div>
@@ -4457,7 +4457,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <div class="media-status">
                                         <span class="badge badge-danger">4</span>
                                     </div>
-                                    <img class="media-object" src="../assets/layouts/layout/img/avatar11.jpg" alt="...">
+                                    <img class="media-object" src="assets/layouts/layout/img/avatar11.jpg" alt="...">
                                     <div class="media-body">
                                         <h4 class="media-heading">Maria Gomez</h4>
                                         <div class="media-heading-sub"> Manager, Infomatic Inc </div>
@@ -4474,7 +4474,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                 </div>
                                 <div class="page-quick-sidebar-chat-user-messages">
                                     <div class="post out">
-                                        <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg" />
+                                        <img class="avatar" alt="" src="assets/layouts/layout/img/avatar3.jpg" />
                                         <div class="message">
                                             <span class="arrow"></span>
                                             <a href="javascript:;" class="name">Bob Nilson</a>
@@ -4483,7 +4483,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         </div>
                                     </div>
                                     <div class="post in">
-                                        <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg" />
+                                        <img class="avatar" alt="" src="assets/layouts/layout/img/avatar2.jpg" />
                                         <div class="message">
                                             <span class="arrow"></span>
                                             <a href="javascript:;" class="name">Ella Wong</a>
@@ -4492,7 +4492,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         </div>
                                     </div>
                                     <div class="post out">
-                                        <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg" />
+                                        <img class="avatar" alt="" src="assets/layouts/layout/img/avatar3.jpg" />
                                         <div class="message">
                                             <span class="arrow"></span>
                                             <a href="javascript:;" class="name">Bob Nilson</a>
@@ -4501,7 +4501,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         </div>
                                     </div>
                                     <div class="post in">
-                                        <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg" />
+                                        <img class="avatar" alt="" src="assets/layouts/layout/img/avatar2.jpg" />
                                         <div class="message">
                                             <span class="arrow"></span>
                                             <a href="javascript:;" class="name">Ella Wong</a>
@@ -4510,7 +4510,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         </div>
                                     </div>
                                     <div class="post out">
-                                        <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg" />
+                                        <img class="avatar" alt="" src="assets/layouts/layout/img/avatar3.jpg" />
                                         <div class="message">
                                             <span class="arrow"></span>
                                             <a href="javascript:;" class="name">Bob Nilson</a>
@@ -4519,7 +4519,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         </div>
                                     </div>
                                     <div class="post in">
-                                        <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg" />
+                                        <img class="avatar" alt="" src="assets/layouts/layout/img/avatar2.jpg" />
                                         <div class="message">
                                             <span class="arrow"></span>
                                             <a href="javascript:;" class="name">Ella Wong</a>
@@ -4528,7 +4528,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         </div>
                                     </div>
                                     <div class="post out">
-                                        <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg" />
+                                        <img class="avatar" alt="" src="assets/layouts/layout/img/avatar3.jpg" />
                                         <div class="message">
                                             <span class="arrow"></span>
                                             <a href="javascript:;" class="name">Bob Nilson</a>
@@ -4537,7 +4537,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         </div>
                                     </div>
                                     <div class="post in">
-                                        <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg" />
+                                        <img class="avatar" alt="" src="assets/layouts/layout/img/avatar2.jpg" />
                                         <div class="message">
                                             <span class="arrow"></span>
                                             <a href="javascript:;" class="name">Ella Wong</a>
@@ -4546,7 +4546,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         </div>
                                     </div>
                                     <div class="post out">
-                                        <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg" />
+                                        <img class="avatar" alt="" src="assets/layouts/layout/img/avatar3.jpg" />
                                         <div class="message">
                                             <span class="arrow"></span>
                                             <a href="javascript:;" class="name">Bob Nilson</a>
@@ -4919,60 +4919,60 @@ License: You must have a valid license purchased only from themeforest(the above
         <div class="quick-nav-overlay"></div>
         <!-- END QUICK NAV -->
         <!--[if lt IE 9]>
-<script src="../assets/global/plugins/respond.min.js"></script>
-<script src="../assets/global/plugins/excanvas.min.js"></script> 
-<script src="../assets/global/plugins/ie8.fix.min.js"></script> 
+<script src="assets/global/plugins/respond.min.js"></script>
+<script src="assets/global/plugins/excanvas.min.js"></script> 
+<script src="assets/global/plugins/ie8.fix.min.js"></script> 
 <![endif]-->
         <!-- BEGIN CORE PLUGINS -->
-        <script src="../assets/global/plugins/jquery.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/js.cookie.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jquery.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/js.cookie.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
         <!-- END CORE PLUGINS -->
         <!-- BEGIN PAGE LEVEL PLUGINS -->
-        <script src="../assets/global/plugins/moment.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/bootstrap-daterangepicker/daterangepicker.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/morris/morris.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/morris/raphael-min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/amcharts/amcharts/amcharts.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/amcharts/amcharts/serial.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/amcharts/amcharts/pie.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/amcharts/amcharts/radar.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/amcharts/amcharts/themes/light.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/amcharts/amcharts/themes/patterns.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/amcharts/amcharts/themes/chalk.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/amcharts/ammap/ammap.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/amcharts/ammap/maps/js/worldLow.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/amcharts/amstockcharts/amstock.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/fullcalendar/fullcalendar.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/horizontal-timeline/horizontal-timeline.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/flot/jquery.flot.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/flot/jquery.flot.resize.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/flot/jquery.flot.categories.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/jquery-easypiechart/jquery.easypiechart.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/jquery.sparkline.min.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/jqvmap/jqvmap/jquery.vmap.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.russia.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.world.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.europe.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.germany.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.usa.js" type="text/javascript"></script>
-        <script src="../assets/global/plugins/jqvmap/jqvmap/data/jquery.vmap.sampledata.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/moment.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/bootstrap-daterangepicker/daterangepicker.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/morris/morris.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/morris/raphael-min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/amcharts/amcharts/amcharts.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/amcharts/amcharts/serial.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/amcharts/amcharts/pie.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/amcharts/amcharts/radar.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/amcharts/amcharts/themes/light.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/amcharts/amcharts/themes/patterns.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/amcharts/amcharts/themes/chalk.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/amcharts/ammap/ammap.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/amcharts/ammap/maps/js/worldLow.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/amcharts/amstockcharts/amstock.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/fullcalendar/fullcalendar.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/horizontal-timeline/horizontal-timeline.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/flot/jquery.flot.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/flot/jquery.flot.resize.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/flot/jquery.flot.categories.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jquery-easypiechart/jquery.easypiechart.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jquery.sparkline.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jqvmap/jqvmap/jquery.vmap.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.russia.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.world.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.europe.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.germany.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.usa.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jqvmap/jqvmap/data/jquery.vmap.sampledata.js" type="text/javascript"></script>
         <!-- END PAGE LEVEL PLUGINS -->
         <!-- BEGIN THEME GLOBAL SCRIPTS -->
-        <script src="../assets/global/scripts/app.min.js" type="text/javascript"></script>
+        <script src="assets/global/scripts/app.min.js" type="text/javascript"></script>
         <!-- END THEME GLOBAL SCRIPTS -->
         <!-- BEGIN PAGE LEVEL SCRIPTS -->
-        <script src="../assets/pages/scripts/dashboard.min.js" type="text/javascript"></script>
+        <script src="assets/pages/scripts/dashboard.min.js" type="text/javascript"></script>
         <!-- END PAGE LEVEL SCRIPTS -->
         <!-- BEGIN THEME LAYOUT SCRIPTS -->
-        <script src="../assets/layouts/layout5/scripts/layout.min.js" type="text/javascript"></script>
-        <script src="../assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
-        <script src="../assets/layouts/global/scripts/quick-nav.min.js" type="text/javascript"></script>
+        <script src="assets/layouts/layout5/scripts/layout.min.js" type="text/javascript"></script>
+        <script src="assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
+        <script src="assets/layouts/global/scripts/quick-nav.min.js" type="text/javascript"></script>
         <!-- END THEME LAYOUT SCRIPTS -->
     </body>
 
